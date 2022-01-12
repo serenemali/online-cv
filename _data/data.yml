@@ -143,13 +143,19 @@ skills:
         level: 50%
 
       - name: HTML5 & CSS
-        level: 50%
+        level: 60%
 
       - name: Github
         level: 80%
 
       - name: Photoshop
         level: 50%
+      
+      - name: Video editing
+        level: 60%
+        
+      - name: Video creation
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
