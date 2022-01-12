@@ -38,15 +38,12 @@ sidebar:
         link:
         
       - item: Drawing
-        link:
-        
-      - item: Eating delicious food
-        link:
-
+        link:  
+     
 career-profile:
     title: Career Profile
     summary: |
-      I am a Senior Technical Writer by day, self-proclaimed, self-taught personal chef for my family at night!
+      I am a Senior Technical Writer by day, self-proclaimed, self-taught "personal chef" for my family at night!
       I have a Masters in Technical Communication with 15 years of experience in documentation in agile/waterfall work environments.
       I am passionate in helping people see the bigger picture and enabling end users to produce effective results through my writing.
       I can translate technical domain knowledge into language that the user can understand and use, with a keen eye for design.
