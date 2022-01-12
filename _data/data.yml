@@ -130,26 +130,32 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Technical Writing
+      - name: Software/Technical Documentation
         level: 98%
 
       - name: DITA/XML
         level: 98%
 
+      - name: Asciidoc/MD
+        level: 55%
+        
       - name: Jira
         level: 70%
+        
+      - name: Visio, Inkscape
+        level: 55%
 
       - name: Visual Studio Code
-        level: 50%
+        level: 55%
 
       - name: HTML5 & CSS
         level: 60%
 
-      - name: Github
+      - name: Github, Github Desktop
         level: 80%
 
       - name: Photoshop
-        level: 50%
+        level: 60%
       
       - name: Video editing
         level: 60%
