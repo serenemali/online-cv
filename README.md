@@ -1,3 +1,5 @@
+Note to myself: 
+1. Make changes to the appearance of the tab, favicon, site title, skin in the `_config.yml` file and all content updates in the `data/data.yml` file.
 <a href="https://jekyll-themes.com">
 <img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
 </a>
