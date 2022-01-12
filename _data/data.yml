@@ -125,42 +125,16 @@ experiences:
           - Bullet point
           
 projects:
-    title: Projects
+    title: Passion projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-projects:
-    title: Personal YouTube Travel Channel
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Just a few things I dabble in when I can find some free time.
     assignments:
       - title: Bespoke Wanderer
         link: "https://www.youtube.com/c/JonandSerenesTravels"
         tagline: "A place to share the memories of my husband and my travels together so that you can bask in the awesome journeys we experienced and continue to explore across the world."
+      - title: Elegant Art Hut
+        link: "https://elegantarthut.com/"
+        tagline: "I helped my father host, upload, edit, and maintain his traditional personal website which features his Chinese calligraphy, my mother's Traditional Chinese Watercolour paintings, their travels, and his passions."
 
 skills:
     title: Skills &amp; Proficiency
