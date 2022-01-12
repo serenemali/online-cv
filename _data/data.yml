@@ -55,7 +55,7 @@ education:
       university: Utah State University
       time: 2013-2015
       details: |
-        I completed this 2 year MTC program online via Utah State University's online learning platform.
+        I completed this 2 year MTC program online via Utah State University's online learning platform and graduated with a 3.97 GPA.
           - Bullet point
           - Bullet point
     - degree: Marketing Managemenet Certificate
@@ -69,12 +69,12 @@ education:
       university: University of Waterloo
       time: 2004 - 2008
       details: |
-        I completed my BA and graduated with Honours and completed several co-op terms.
-          - Bullet point
-          - Bullet point      
+        I completed my BA and graduated with Honours and completed several co-op terms. I also participated in the following extracurricular activities:
+          - International Student English Tutor
+          - UW Food Bank volunteer      
 experiences:
     - role: Senior Technical Writer
-      time: 2015 - Present
+      time: 2019 - Present
       company: SS&C Technologies Inc.
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -89,7 +89,7 @@ experiences:
           - Bullet point
           - Bullet point
     - role: Staff Information Developer/Information Developer
-      time: 2014 - 2015
+      time: 2012 - 2019
       company: IBM Canada Ltd.
       details: |
           - Worked on and managed IBM Risk Analytics software documentation for Algo RiskWatch and RiskWatch related products, Algo Risk Manager, CWM (deprecated), and occasionally filled in for Algo Big Data products, PCRE, and Algo Riskflow when necessary
@@ -102,7 +102,7 @@ experiences:
           - Volunteered to be point of contact for Algo product related publication approvals
           - Assisted colleagues with successfully transitioning to acquisition
     - role: Information Developer
-      time: 2012 - 2014
+      time: 2009 - 2012
       company: Algorithmics, Inc.
       details: |
           - Composed technical documentation (Internal and External User/Configuration Guides) for Algorithmics Software
