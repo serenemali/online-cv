@@ -42,16 +42,23 @@ sidebar:
 
       - item: Adrenaline sports/activities
         link:
+        
+      - item: Drawing
+        link:
+        
+      - item: Eating delicious food
+        link:
 
 career-profile:
     title: Career Profile
     summary: |
-      I completed my Masters in Technical Communication while working full-time when I was a Staff Information Developer at IBM Canada Ltd.
+      I am a Senior Technical Writer by day, self-proclaimed, self-taught personal chef to my husband and I at night!
+      I have a Masters in Technical Communication with 15 years of experience in documentation in agile/waterfall work environments.
       I have a passion for helping people see the bigger picture and enabling end users to produce effective results through my writing.
-      With 15 years of experience in documentation in agile/waterfall work environments I can translate technical domain knowledge into language that the user can understand and use, with a keen eye for design.
-      To see my work experience prior to 2009, please see my LinkedIn profile.
+      I can translate technical domain knowledge into language that the user can understand and use, with a keen eye for design.
       
-      My specialties include the following: Camtasia, Adobe Premiere Pro, Microsoft Word, Excel, Night Kitchen TK3 Author, PowerPoint, Visio, Sony Vegas, Adobe Photoshop, Adobe Illustrator, Working knowledge of FileMaker Pro, DreamWeaver, MesssageNet, Berton, BTS, ClientLink, XMetal, Oxygen, Atom, ZenHub, GitHub, Adobe FrameMaker, ASCIIdoc, HTML, and XML.
+      To see my work experience prior to 2009, please see my LinkedIn profile.
+            
 education:
     - degree: MTC Master in Technical Communications
       university: Utah State University
