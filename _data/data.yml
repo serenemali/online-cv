@@ -1,6 +1,7 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
+
 theme_skin: ceramic # blue turquoise green berry orange ceramic
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
@@ -49,7 +50,8 @@ career-profile:
       I have a passion for helping people see the bigger picture and enabling end users to produce effective results through my writing.
       With 15 years of experience in documentation in agile/waterfall work environments I can translate technical domain knowledge into language that the user can understand and use, with a keen eye for design.
       To see my work experience prior to 2009, please see my LinkedIn profile.
-Specialties: Camtasia, Adobe Premiere Pro, Microsoft Word, Excel, Night Kitchen TK3 Author, PowerPoint, Visio, Sony Vegas, Adobe Photoshop, Adobe Illustrator, Working knowledge of FileMaker Pro, DreamWeaver, MesssageNet, Berton, BTS, ClientLink, XMetal, Oxygen, Atom, ZenHub, GitHub, Adobe FrameMaker, ASCIIdoc, HTML, and XML.
+      
+      My specialties include the following: Camtasia, Adobe Premiere Pro, Microsoft Word, Excel, Night Kitchen TK3 Author, PowerPoint, Visio, Sony Vegas, Adobe Photoshop, Adobe Illustrator, Working knowledge of FileMaker Pro, DreamWeaver, MesssageNet, Berton, BTS, ClientLink, XMetal, Oxygen, Atom, ZenHub, GitHub, Adobe FrameMaker, ASCIIdoc, HTML, and XML.
 education:
     - degree: MTC Master in Technical Communications
       university: Utah State University
