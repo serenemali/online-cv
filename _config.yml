@@ -1,6 +1,7 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
+favicon: <insert-path-to-favicon.ico>
 title: My career profile at a glance
 url: 'serenemali.github.io'
 # url: 'http://webjeda.com'
