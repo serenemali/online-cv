@@ -45,12 +45,16 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      # Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      # adipiscing elit. You can [download this free resume/CV template here]().
+      # Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      # penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      # Donec quam felis, ultricies nec, pellentesque eu.
+      Completing my Masters in Technical Communication while working full-time as a Staff Information Developer, I have a passion for helping people see the bigger picture and enabling end users to produce effective results through my writing.
+
+      With 15 years of experience in documentation in agile/waterfall work environments I can translate technical domain knowledge into language that the user can understand and use, with a keen eye for design.
+
+Specialties: Camtasia, Adobe Premiere Pro, Microsoft Word, Excel, Night Kitchen TK3 Author, PowerPoint, Visio, Sony Vegas, Adobe Photoshop, Adobe Illustrator, Working knowledge of FileMaker Pro, DreamWeaver, MesssageNet, Berton, BTS, ClientLink, XMetal, Oxygen, Atom, ZenHub, GitHub, Adobe FrameMaker, ASCIIdoc, HTML, and XML.
 education:
     - degree: MTC Master in Technical Communications
       university: Utah State University
