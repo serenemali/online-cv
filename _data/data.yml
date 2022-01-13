@@ -104,6 +104,15 @@ experiences:
           - Enhanced image quality for documentation in InfoCenter (IC) and PDF
           - Tested new Algorithmics Release software requirements and features through UNIX and web
           - Created team SharePoint websites and Purplenote documentation for efficient team communication
+    - role: Content Conversion Editor
+      time: 2007 - 2007
+      company: Algorithmics, Inc.
+      details: |
+          - Converted Adobe FrameMaker documentation into XML Dita
+          - Reported new and improved techniques while using XMetal 5.0 to technical writers and manager
+          - Designed and finalized cover page for all final documentation products
+          - Assisted with the continuing enhancement of the image quality for documentation in print and html
+          - Developed working knowledge of Subversion and basic running of ant scripts
           
 projects:
     title: Passion projects
